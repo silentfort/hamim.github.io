@@ -26,14 +26,4 @@ I am a passionate web developer who specializes in creating interactive and user
 ## How to View the Website
 
 You can view my live portfolio at:  
-[https://hamim.github.io](https://hamim.github.io)
-
-## Getting Started
-
-If you'd like to view or contribute to this project, follow these steps:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/hamim/portfolio.git
-cd portfolio
+[https://silentfort.github.io/portfolio]
