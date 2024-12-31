@@ -151,7 +151,7 @@
       <h2>Contact</h2>
       <p>If you'd like to get in touch, feel free to reach out via email or social media.</p>
       <ul>
-        <li>Email: hamim.zaman@example.com</li>
+        <li>Email: hamim_bhaiya@icloud.com</li>
         <li>Facebook: <a href="https://m.me/classical.hamim.51" target="_blank">Message me</a></li>
       </ul>
     </div>
