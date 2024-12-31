@@ -1,0 +1,167 @@
+<?php
+  // Optional PHP section for dynamic content or future enhancements
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hamim Zaman | Portfolio</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: white;
+      padding: 10px 0;
+    }
+
+    header nav .logo h1 {
+      display: inline-block;
+      margin-left: 20px;
+      font-size: 1.8em;
+    }
+
+    header nav ul {
+      float: right;
+      list-style: none;
+      margin-right: 20px;
+    }
+
+    header nav ul li {
+      display: inline;
+      margin-left: 20px;
+    }
+
+    header nav ul li a {
+      color: white;
+      text-decoration: none;
+      font-size: 1.1em;
+    }
+
+    section {
+      padding: 40px 0;
+      margin: 20px 0;
+    }
+
+    .container {
+      width: 80%;
+      margin: 0 auto;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    ul li {
+      margin: 5px 0;
+    }
+
+    .project {
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">
+        <h1>Hamim Zaman</h1>
+      </div>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        I am Hamim Zaman, a passionate web developer and tech enthusiast based in Bangladesh. With a strong background in web development, I specialize in creating interactive and user-friendly websites. I am constantly learning new technologies and improving my skills to deliver high-quality, scalable solutions.
+      </p>
+      <p>
+        I'm also interested in cybersecurity and am working on enhancing my knowledge in that field. I enjoy problem-solving and tackling challenging projects that help me grow.
+      </p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <div class="container">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>PHP, WordPress</li>
+        <li>Web Development (Frontend & Backend)</li>
+        <li>Cybersecurity & Incident Response</li>
+        <li>Git & GitHub</li>
+        <li>Database Management (MySQL, SQLite)</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>CyberIQ Website</h3>
+        <p>Created a personal archive website to showcase various software, games, books, and utilities.</p>
+      </div>
+      <div class="project">
+        <h3>SilentFort Organization</h3>
+        <p>Started a cybersecurity-focused organization to offer IT services and solutions.</p>
+      </div>
+      <div class="project">
+        <h3>FTPend</h3>
+        <p>Developed a web-based FTP client for secure file transfers without using SQL.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>If you'd like to get in touch, feel free to reach out via email or social media.</p>
+      <ul>
+        <li>Email: hamim.zaman@example.com</li>
+        <li>Facebook: <a href="https://m.me/classical.hamim.51" target="_blank">Message me</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Hamim Zaman. All rights reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
